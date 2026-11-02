@@ -1,59 +1,90 @@
-<h1 align="center">Hi, I'm Madhuka Prasad 👋</h1>
-
+<!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  Full-stack web developer from Colombo, Sri Lanka<br/>
-  I build clean, production-minded web applications with React, Node.js and Spring Boot
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=220&section=header&text=Madhuka%20Prasad&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20Colombo%2C%20Sri%20Lanka&descSize=18&descAlignY=60" alt="Madhuka Prasad banner"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Madhuka%20Prasad-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:madhukaprasad56@gmail.com"><img src="https://img.shields.io/badge/Email-madhukaprasad56@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Madhuka056">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Passionate+about+full-stack+web+development;Turning+ideas+into+working+products;Learning+something+new+every+day;Open+to+internships+and+junior+roles" alt="Typing animation"/>
+  </a>
 </p>
 
----
-
-## About me
-
-I'm a Physical Science undergraduate at the **University of Ruhuna** (final year completed) with a strong interest in software engineering. I enjoy owning a feature end to end: designing the UI, building the REST API and modelling the data behind it. I'm comfortable working in a team using Git and Agile practices, as well as independently.
-
-- 🌱 Currently learning Next.js, TypeScript, PostgreSQL and Prisma
-- ☁️ Azure Fundamentals and Microsoft Applied Skills certified
-- 🏆 Participant, Rush Coder 3.0 Hackathon (2025)
-- 📫 Open to internship and junior full-stack developer roles
-
----
-
-## Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/madhukaprasasd56"><img src="https://img.shields.io/badge/LinkedIn-Madhuka Prasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:madhukaprasad56@gmail.com"><img src="https://img.shields.io/badge/Email-madhukaprasad56%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## Let's connect
-
-If you'd like to collaborate or just say hi, reach out by [email](mailto:madhukaprasad56@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME).
+## 👋 About me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuka056&layout=compact&hide_border=true" alt="Top languages" height="150"/>
+  I'm a Physical Science undergraduate with a strong passion for software engineering.<br/>
+  I enjoy the full lifecycle of web development: designing the interface, building the API and structuring the data behind it.<br/>
+  I value collaboration, continuous learning and writing clean, maintainable code.
+</p>
+
+<table align="center">
+  <tr>
+    <td>📍 <b>Based in</b></td>
+    <td>Colombo, Sri Lanka</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Studying</b></td>
+    <td>BSc in Physical Science, University of Ruhuna</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Interested in</b></td>
+    <td>Full-stack web development · Clean architecture · Building useful things</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+    </td>
+  </tr>
+  <tr>
+    <td>📫 <b>Open to</b></td>
+    <td>Internships · Junior developer roles · Collaboration</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech stack
+
+<table align="center">
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,react,ts,html,css,nextjs,tailwind,bootstrap&perline=8" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,nodejs,spring,express,php&perline=6" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=4" alt="Database"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,azure,postman,figma,ubuntu&perline=7" alt="Tools"/></td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's connect
+
+I'm always happy to chat about web development, learning paths or opportunities. Feel free to reach out by [email](mailto:madhukaprasad56@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/madhukaprasasd56).
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhuka056&label=Profile%20views&style=for-the-badge&color=0A66C2" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=120&section=footer" alt="Footer"/>
 </p>
