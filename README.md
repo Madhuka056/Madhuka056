@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Madhuka056">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Passionate+about+full-stack+web+development;Turning+ideas+into+working+products;Learning+something+new+every+day;Open+to+internships+and+junior+roles" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Passionate+about+full-stack+web+development;Turning+ideas+into+working+products;Learning+something+new+every+day" alt="Typing animation"/>
   </a>
 </p>
 
