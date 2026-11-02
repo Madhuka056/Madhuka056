@@ -19,7 +19,7 @@
 ## 👋 About me
 
 <p align="center">
-  I'm a Physical Science undergraduate with a strong passion for software engineering.<br/>
+  I'm a Physical Science undergraduate(final year completed) with a strong passion for software engineering.<br/>
   I enjoy the full lifecycle of web development: designing the interface, building the API and structuring the data behind it.<br/>
   I value collaboration, continuous learning and writing clean, maintainable code.
 </p>
